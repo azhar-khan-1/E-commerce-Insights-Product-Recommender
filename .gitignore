@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Raw datasets
+data/raw/
+
+# OS files
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Local backup
+e-commerce-insights-product-recommender_backup.ipynb
+
+# Old generated outputs
+product_popularity.csv
+product_recommendations.csv
+product_similarity.csv
